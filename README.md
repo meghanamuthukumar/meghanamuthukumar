@@ -1,4 +1,5 @@
-### Hi there 👋
+### Hi! 👋,
+I'm Meghana Muthukumar, a Software Engineer from Bengaluru, India and currently working at ThoughtClan Technologies.
 
 <!--
 **meghanamuthukumar/meghanamuthukumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
